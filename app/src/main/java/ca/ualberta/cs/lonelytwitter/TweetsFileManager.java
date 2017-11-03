@@ -14,6 +14,9 @@ import android.util.Log;
 
 public class TweetsFileManager {
 
+	// exercise task 3
+	private static final String FILE_NAME = "file.sav";
+
 	private Context ctx;
 
 	public TweetsFileManager(Context ctx) {

@@ -17,6 +17,7 @@ public class LonelyTwitterActivity extends Activity {
 	private ListView oldTweetsList;
 
 	private List<NormalLonelyTweet> tweets;
+	// exercise task 1
 	private ArrayAdapter<NormalLonelyTweet> adapter;
 	private TweetsFileManager tweetsProvider;
 
